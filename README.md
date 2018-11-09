@@ -16,7 +16,7 @@ At the moment, there are two DNN-HMM hybrid models available based on [time-dela
 Download the archive from http://bit.ly/2PKkuP3 and extract it. You will find the following:
 
 ```` 
-child_asr/  cmd.sh  decode.sh  mfcc.conf  path.sh 
+child_asr/  cmd.sh  decode.sh  libri_data/ libri_demo/ mfcc.conf  path.sh  
 ````
 
 The following variables need to be set in ````decode.sh````:
